@@ -1,10 +1,10 @@
-name: Daily updates
+name: Status Update
 
 on:
   workflow_dispatch:
   schedule:
     # Once a day at 8 AM
-    - cron: 0 8 * * *
+    - cron: 0 22 * * *
   push:
     branches:
       - main
@@ -14,13 +14,6 @@ jobs:
     name: Updates
     runs-on: ubuntu-latest
     steps:
-      - name: Update this repo's README
-        uses: JasonEtco/rss-to-readme@v1
-        with:
-          feed-url: https://jasonet.co/rss.xml
-          readme-section: posts
-          empty-commits: "false"
-
       - name: Update my status
         uses: actions/github-script@v2
         with:
