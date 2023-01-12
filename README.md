@@ -1,4 +1,4 @@
-## Sup Nerds ⌑
+## Hody Nerds 🖖
 
 I love creating things, I'm a creative and  curious human. 
 
