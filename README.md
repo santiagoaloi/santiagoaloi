@@ -15,7 +15,7 @@ I help other developers by coming up with template projects, boilerplates, tutor
 ## Get in touch
 
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiagoaloi/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiagoaloi/)
 
 If you wanna drop me a line,  santiagoaloi@gmail.com or find me in disccord `lannister#9474`
 
