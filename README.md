@@ -6,11 +6,11 @@ I help other developers by coming up with template projects, boilerplates, tutor
 
 ## :wrench: Tech stack
 
-![Vuetify](https://img.shields.io/static/v1?style=flat&message=Vuetify&color=2bbc8a&logo=Vuetify&logoColor=FFFFFF&label=)
-![Vue.js](https://img.shields.io/static/v1?style=flat&message=Vue.js&color=2bbc8a&logo=Vue.js&logoColor=4FC08D&label=)
-![Firebase](https://img.shields.io/static/v1?style=flat&message=Firebase&color=2bbc8a&logo=Firebase&logoColor=FFCA28&label=)
-![MySQL](https://img.shields.io/static/v1?style=flat&message=MySQL&color=2bbc8a&logo=MySQL&logoColor=FFFFFF&label=)
-![Google Cloud](https://img.shields.io/static/v1?style=flat&message=Google+Cloud&color=2bbc8a&logo=Google+Cloud&logoColor=FFFFFF&label=)
+![Vuetify](https://img.shields.io/static/v1?style=flat&message=Vuetify&color=373e47&logo=Vuetify&logoColor=FFFFFF&label=)
+![Vue.js](https://img.shields.io/static/v1?style=flat&message=Vue.js&color=373e47&logo=Vue.js&logoColor=4FC08D&label=)
+![Firebase](https://img.shields.io/static/v1?style=flat&message=Firebase&color=373e47&logo=Firebase&logoColor=FFCA28&label=)
+![MySQL](https://img.shields.io/static/v1?style=flat&message=MySQL&color=373e47&logo=MySQL&logoColor=FFFFFF&label=)
+![Google Cloud](https://img.shields.io/static/v1?style=flat&message=Google+Cloud&color=373e47&logo=Google+Cloud&logoColor=FFFFFF&label=)
 
 ## Get in touch
 
