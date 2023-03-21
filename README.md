@@ -1,4 +1,4 @@
-[![cover-stockholm.gif](/stockholm.jpg)](/stockholm.jpg)
+[![cover-stockholm.gif](/stockholm_2.jpg)](/stockholm_2.jpg)
 
 ## Howdy Nerds 🖖
 
