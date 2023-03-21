@@ -1,3 +1,5 @@
+[![cover-stockholm.gif](/stockholm.jpg)](/stockholm.jpg)
+
 ## Howdy Nerds 🖖
 
 I love building things, I'm a creative and  curious human. 
@@ -23,7 +25,7 @@ If you wanna drop me a line,  santiagoaloi@gmail.com or find me in disccord `lan
 
 ## Sponsoring
 
-If you feel generous and wanna put a smile in my face.
+If you feel generous and wanna put a smile on my face.
 
 [Become a sponsor](https://github.com/sponsors/santiagoaloi)
 
