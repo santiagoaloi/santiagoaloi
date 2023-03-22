@@ -13,7 +13,6 @@ I help other developers by coming up with template projects, boilerplates, tutor
 ![Vite](https://img.shields.io/static/v1?style=flat&message=Vite&color=373e47&logo=Vite&logoColor=FFFFFF&label=)
 ![Node.js](https://img.shields.io/static/v1?style=flat&message=Node.js&color=373e47&logo=Node.js&logoColor=FFFFFF&label=)
 ![JavaScript](https://img.shields.io/static/v1?style=flat&message=JavaScript&color=373e47&logo=JavaScript&logoColor=F7DF1E&label=)
-![Sass](https://img.shields.io/static/v1?style=flat&message=Sass&color=373e47&logo=Sass&logoColor=FFFFFF&label=)
 ![Firebase](https://img.shields.io/static/v1?style=flat&message=Firebase&color=373e47&logo=Firebase&logoColor=FFCA28&label=)
 ![MySQL](https://img.shields.io/static/v1?style=flat&message=MySQL&color=373e47&logo=MySQL&logoColor=FFFFFF&label=)
 ![Google Cloud](https://img.shields.io/static/v1?style=flat&message=Google+Cloud&color=373e47&logo=Google+Cloud&logoColor=FFFFFF&label=)
