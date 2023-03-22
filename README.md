@@ -10,7 +10,7 @@ I help other developers by coming up with template projects, boilerplates, tutor
 
 ![Vuetify](https://img.shields.io/static/v1?style=flat&message=Vuetify&color=373e47&logo=Vuetify&logoColor=FFFFFF&label=)
 ![Vue.js](https://img.shields.io/static/v1?style=flat&message=Vue.js&color=373e47&logo=Vue.js&logoColor=4FC08D&label=)
-![Vites](https://img.shields.io/static/v1?style=flat&e&message=Vitess&color=373e47&logo=Vitess&logoColor=FFFFFF&label=)
+![Vite](https://img.shields.io/static/v1?style=flat&message=Vite&color=373e47&logo=Vite&logoColor=FFFFFF&label=)
 ![Sass](https://img.shields.io/static/v1?style=flat&message=Sass&color=373e47&logo=Sass&logoColor=FFFFFF&label=)
 ![Firebase](https://img.shields.io/static/v1?style=flat&message=Firebase&color=373e47&logo=Firebase&logoColor=FFCA28&label=)
 ![MySQL](https://img.shields.io/static/v1?style=flat&message=MySQL&color=373e47&logo=MySQL&logoColor=FFFFFF&label=)
