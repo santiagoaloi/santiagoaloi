@@ -18,20 +18,18 @@ I help other developers by coming up with template projects, boilerplates, tutor
 ![Firebase](https://img.shields.io/static/v1?style=flat&message=Firebase&color=373e47&logo=Firebase&logoColor=FFCA28&label=)
 ![MySQL](https://img.shields.io/static/v1?style=flat&message=MySQL&color=373e47&logo=MySQL&logoColor=FFFFFF&label=)
 ![Google Cloud](https://img.shields.io/static/v1?style=flat&message=Google+Cloud&color=373e47&logo=Google+Cloud&logoColor=FFFFFF&label=)
+![Git](https://img.shields.io/static/v1?style=flat&message=Git&color=373e47&logo=Git&logoColor=FFFFFF&label=)
 
 ## Get in touch
 
-
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiagoaloi/)
 
-If you wanna drop me a line,  santiagoaloi@gmail.com or find me in disccord `lannister#9474`
+If you wanna drop me a line,  santiagoaloi@gmail.com or find me on disccord `lannister#9474`
 
 
 ## Sponsoring
 
-If you feel generous and wanna put a smile on my face.
-
-[Become a sponsor](https://github.com/sponsors/santiagoaloi)
+If you feel generous and wanna put a smile on my face [become a sponsor](https://github.com/sponsors/santiagoaloi)
 
 
 🥂 Cheers!
