@@ -11,6 +11,8 @@ I help other developers by coming up with template projects, boilerplates, tutor
 ![Vuetify](https://img.shields.io/static/v1?style=flat&message=Vuetify&color=373e47&logo=Vuetify&logoColor=FFFFFF&label=)
 ![Vue.js](https://img.shields.io/static/v1?style=flat&message=Vue.js&color=373e47&logo=Vue.js&logoColor=4FC08D&label=)
 ![Vite](https://img.shields.io/static/v1?style=flat&message=Vite&color=373e47&logo=Vite&logoColor=FFFFFF&label=)
+![Webpack](https://img.shields.io/static/v1?style=flat&message=Webpack&color=373e47&logo=Webpack&logoColor=8DD6F9&label=)
+![rollup.js](https://img.shields.io/static/v1?style=flat&message=rollup.js&color=373e47&logo=rollup.js&logoColor=FFFFFF&label=)
 ![Node.js](https://img.shields.io/static/v1?style=flat&message=Node.js&color=373e47&logo=Node.js&logoColor=FFFFFF&label=)
 ![JavaScript](https://img.shields.io/static/v1?style=flat&message=JavaScript&color=373e47&logo=JavaScript&logoColor=F7DF1E&label=)
 ![Firebase](https://img.shields.io/static/v1?style=flat&message=Firebase&color=373e47&logo=Firebase&logoColor=FFCA28&label=)
