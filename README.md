@@ -1,6 +1,6 @@
 [![cover-stockholm.gif](/stockholm_2.jpg)](/stockholm_2.jpg)
 
-## Howdy 🖖
+## Hey!👋
 
 Pretty much focused on getting companies to the high-performing levels. 
 I have an intense focus on observability and developer velocity, and I spend most of my time building web applications and helping others by coming up with template projects, boilerplates, tutorials, contributing to open source and being active in the community as much as possible [ mainly Vue and Vuetify ] 🦦
@@ -21,13 +21,13 @@ I'm also a network engineer and cyber security consultant, in the field of log m
 ![Google Cloud](https://img.shields.io/static/v1?style=flat&message=Google+Cloud&color=373e47&logo=Google+Cloud&logoColor=FFFFFF&label=)
 ![Git](https://img.shields.io/static/v1?style=flat&message=Git&color=373e47&logo=Git&logoColor=FFFFFF&label=)
 
-## Get in touch
+## 📨 Get in touch
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiagoaloi/)
 
 If you wanna drop me a line,  santiagoaloi@gmail.com or find me on disccord [lannister#9474](https://discordapp.com/users/lannister#9474) 
 
-## Sponsoring
+## ❤️ Sponsoring
 
 If you feel generous and wanna put a smile on my face [become a sponsor](https://github.com/sponsors/santiagoaloi)
 
