@@ -30,6 +30,3 @@ If you wanna drop me a line,  santiagoaloi@gmail.com or find me on disccord [lan
 ## ❤️ Sponsoring
 
 If you feel generous and wanna put a smile on my face [become a sponsor](https://github.com/sponsors/santiagoaloi)
-
-
-🥂 Cheers!
