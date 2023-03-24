@@ -1,10 +1,11 @@
 [![cover-stockholm.gif](/stockholm_2.jpg)](/stockholm_2.jpg)
 
-## Howdy Nerds 🖖
+## Howdy 🖖
 
-I love building things, I'm a creative and  curious human. 
+Pretty much focused on getting companies to the high-performing levels. 
+I have an intense focus on observability and developer velocity, and I spend most of my time building web applications and helping others by coming up with template projects, boilerplates, tutorials, contributing to open source and being active in the community as much as possible [ mainly Vue and Vuetify ] 🦦
 
-I help other developers by coming up with template projects, boilerplates, tutorials, contributing to open source and being active in the community as much as possible [ mainly Vue and Vuetify ]. I'm also a network engineer and cyber security consultant, in the field of log management, automation and machine learning.
+I'm also a network engineer and cyber security consultant, in the field of log management, automation and machine learning 🤯
 
 ## :wrench: Tech stack
 
