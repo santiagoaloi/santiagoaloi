@@ -9,7 +9,7 @@ I'm also a network engineer and cyber security consultant, in the field of log m
 
 ## :wrench: Tech stack
 
-![Vuetify](https://img.shields.io/static/v1?style=flat&message=Vuetify&color=373e47&logo=Vuetify&logoColor=FFFFFF&label=)
+![Vuetify](https://img.shields.io/static/v1?style=flat&message=Vuetify&color=373e47&logo=Vuetify&logoColor=8DD6F9&label=)
 ![Vue.js](https://img.shields.io/static/v1?style=flat&message=Vue.js&color=373e47&logo=Vue.js&logoColor=4FC08D&label=)
 ![Vite](https://img.shields.io/static/v1?style=flat&message=Vite&color=373e47&logo=Vite&logoColor=FFFFFF&label=)
 ![Webpack](https://img.shields.io/static/v1?style=flat&message=Webpack&color=373e47&logo=Webpack&logoColor=8DD6F9&label=)
