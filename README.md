@@ -27,6 +27,6 @@ I'm also a network engineer and cyber security consultant, in the field of log m
 
 If you wanna drop me a line,  santiagoaloi@gmail.com or find me on disccord [lannister#9474](https://discordapp.com/users/lannister#9474) 
 
-## ❤️ Sponsoring
+## 🥇 Sponsoring
 
 If you feel generous and wanna put a smile on my face [become a sponsor](https://github.com/sponsors/santiagoaloi)
