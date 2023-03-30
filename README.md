@@ -1,4 +1,4 @@
-[![line.jpeg](/line.jpeg)](/line.jpeg)
+[![line.jpg](/line.jpg)](/line.jpg)
 
 ## Hey!👋
 
