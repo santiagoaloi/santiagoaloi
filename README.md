@@ -1,4 +1,4 @@
-[![cover-stockholm.gif](/banner_2.png)](/banner_2.png)
+[![cover-stockholm.gif](/line.png)](/line.png)
 
 ## Hey!👋
 
