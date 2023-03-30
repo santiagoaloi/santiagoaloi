@@ -1,4 +1,4 @@
-[![cover-stockholm.gif](/line.png)](/line.png)
+[![line.png](/line.png)](/line.png)
 
 ## Hey!👋
 
