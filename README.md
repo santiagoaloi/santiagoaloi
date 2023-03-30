@@ -5,7 +5,7 @@ I have an intense interest on observability and developer velocity, and I spend 
 
 I'm also a network engineer and cyber security consultant, in the field of log management, automation and machine learning.
 
-## :wrench: Tech stack
+## :wrench: Stack
 
 ![Vuetify](https://img.shields.io/static/v1?style=flat&message=Vuetify&color=373e47&logo=Vuetify&logoColor=8DD6F9&label=)
 ![Vue.js](https://img.shields.io/static/v1?style=flat&message=Vue.js&color=373e47&logo=Vue.js&logoColor=4FC08D&label=)
@@ -19,12 +19,12 @@ I'm also a network engineer and cyber security consultant, in the field of log m
 ![Google Cloud](https://img.shields.io/static/v1?style=flat&message=Google+Cloud&color=373e47&logo=Google+Cloud&logoColor=FFFFFF&label=)
 ![Git](https://img.shields.io/static/v1?style=flat&message=Git&color=373e47&logo=Git&logoColor=F1502F&label=)
 
-## 📨 Get in touch
+## 📨 Find me
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiagoaloi/)
 
 If you wanna drop me a line,  santiagoaloi@gmail.com or find me on disccord [lannister#9474](https://discordapp.com/users/lannister#9474) 
 
-## 🥇 Sponsoring
+## 🥇 Sponsor
 
 If you feel generous and wanna put a smile on my face [become a sponsor](https://github.com/sponsors/santiagoaloi)
