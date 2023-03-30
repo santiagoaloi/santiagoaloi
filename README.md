@@ -1,4 +1,3 @@
-[![line2.png](/line2.png)](/line2.png)
 
 Pretty much focused on getting companies to the high-performing levels. 
 I have an intense interest on observability and developer velocity, and I spend most of my time building web applications and helping others by coming up with template projects, boilerplates, tutorials, contributing to open source and being active in the community as much as possible 🦦
