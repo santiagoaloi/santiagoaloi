@@ -1,6 +1,6 @@
 # Hi, I'm Santiago 👋 👨‍💻
 
-#### Passionate about software/code quality, Functional and Reactive programming. 🤩
+### Passionate about software/code quality, Functional and Reactive programming. 🤩
 
 I spend most of my time building web applications and creating template projects, boilerplates, and tutorials that others can use to improve their own development workflows -- I like mentoring, and empowering others in the community.
 
