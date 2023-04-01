@@ -1,4 +1,4 @@
-## Hi, I'm Santiago 👩🏾‍💻👋
+# Hi, I'm Santiago 👋 👨‍💻
 
 #### Passionate about software/code quality, Functional and Reactive programming. 🤩
 
