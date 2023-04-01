@@ -1,8 +1,10 @@
+I'm passionate about helping companies optimize their software development processes for better efficiency, scalability, and quality. 🤩
 
-Pretty much focused on getting companies to the high-performing levels. 
-I have an intense interest on observability and developer velocity, and I spend most of my time building web applications and helping others by coming up with template projects, boilerplates, tutorials, contributing to open source and being active in the community as much as possible 🦦
+Specifically, I'm deeply interested in observability and developer velocity, and I enjoy finding ways to promote these concepts in my work. To that end, I spend most of my time building web applications and creating template projects, boilerplates, and tutorials that others can use to improve their own development workflows. I also contribute to open-source projects and actively participate in the development community to stay up to date on the latest best practices and trends.
 
-I'm also a network engineer and cyber security consultant, in the field of log management, automation and machine learning.
+In addition to my work in software development, I'm also a skilled network engineer and cybersecurity consultant. 🤯
+
+I specialize in log management, automation, and machine learning, and I work with a range of organizations to help them address their specific security challenges. Whether it's optimizing network performance or implementing advanced security measures, I bring a wealth of knowledge and experience to the table to help my clients succeed.
 
 ## :wrench: Stack
 
