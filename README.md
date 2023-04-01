@@ -14,6 +14,8 @@ I specialize in log management, automation, and machine learning, and I work wit
 ![Webpack](https://img.shields.io/static/v1?style=flat&message=Webpack&color=373e47&logo=Webpack&logoColor=8DD6F9&label=)
 ![rollup.js](https://img.shields.io/static/v1?style=flat&message=rollup.js&color=373e47&logo=rollup.js&logoColor=fe3333&label=)
 ![Node.js](https://img.shields.io/static/v1?style=flat&message=Node.js&color=373e47&logo=Node.js&logoColor=6ea35c&label=)
+![Yarn](https://img.shields.io/static/v1?style=flat&message=Yarn&color=373e47&logo=Yarn&logoColor=FFFFFF&label=)
+![npm](https://img.shields.io/static/v1?style=flat&message=npm&color=373e47&logo=npm&logoColor=FFFFFF&label=)
 ![JavaScript](https://img.shields.io/static/v1?style=flat&message=JavaScript&color=373e47&logo=JavaScript&logoColor=F7DF1E&label=)
 ![Firebase](https://img.shields.io/static/v1?style=flat&message=Firebase&color=373e47&logo=Firebase&logoColor=FFCA28&label=)
 ![MySQL](https://img.shields.io/static/v1?style=flat&message=MySQL&color=373e47&logo=MySQL&logoColor=FFFFFF&label=)
