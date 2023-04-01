@@ -3,7 +3,7 @@
 Specifically, I'm deeply interested in observability and developer velocity, and I enjoy finding ways to promote these concepts in my work. 
 To that end, I spend most of my time building web applications and creating template projects, boilerplates, and tutorials that others can use to improve their own development workflows. 
 
-#### I also contribute to open-source projects when I can and have time. 🧩
+#### I'm an avid Open-Source contributor and maintainer 🧩
 
 In addition to my work in software development, I'm also a skilled network engineer and cybersecurity consultant.
 I specialize in log management, automation, and machine learning bringing a wealth of knowledge and experience to the table to help my clients succeed.
