@@ -4,12 +4,12 @@
 
 I spend most of my time building web applications and creating template projects, boilerplates, and tutorials that others can use to improve their own development workflows -- I like mentoring, and empowering others in the community.
 
-#### I'm an avid Open-Source contributor and maintainer 🧩
+### I'm an avid Open-Source contributor and maintainer 🧩
 
 In addition to my work in software development, I'm also a skilled network engineer and cybersecurity consultant.
 I specialize in log management, automation, and machine learning bringing a wealth of knowledge and experience to the table to help my clients succeed.
 
-## :wrench: Stack that I generally use in my projects
+### Stack that I generally use in my projects
 
 ![Vuetify](https://img.shields.io/static/v1?style=flat&message=Vuetify&color=373e47&logo=Vuetify&logoColor=8DD6F9&label=)
 ![Vue.js](https://img.shields.io/static/v1?style=flat&message=Vue.js&color=373e47&logo=Vue.js&logoColor=4FC08D&label=)
@@ -27,7 +27,7 @@ I specialize in log management, automation, and machine learning bringing a weal
 ![Microsoft Azure](https://img.shields.io/static/v1?style=flat&message=Microsoft+Azure&color=373e47&logo=Microsoft+Azure&logoColor=FFFFFF&label=)
 ![Git](https://img.shields.io/static/v1?style=flat&message=Git&color=373e47&logo=Git&logoColor=F1502F&label=)
 
-## 📨 Find me
+## Reach out
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiagoaloi/)
 
