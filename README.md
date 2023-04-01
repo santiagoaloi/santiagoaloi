@@ -1,13 +1,11 @@
 # Hi, I'm Santiago 👋 👨‍💻
 
-### Passionate about software/code quality, Functional and Reactive programming. 🤩
-
-I spend most of my time building web applications and creating template projects, boilerplates, and tutorials that others can use to improve their own development workflows -- I like mentoring, and empowering others in the community.
-
-### I'm an avid Open-Source contributor and maintainer 🧩
+### I'm an avid Open-Source contributor and maintainer currently based in Stockholm 🌍
 
 In addition to my work in software development, I'm also a skilled network engineer and cybersecurity consultant.
 I specialize in log management, automation, and machine learning bringing a wealth of knowledge and experience to the table to help my clients succeed.
+
+I spend most of my time building web applications and creating template projects, boilerplates, and tutorials that others can use to improve their own development workflows -- I like mentoring, and empowering others in the community.
 
 ### Stack that I generally use in my projects
 
@@ -35,4 +33,4 @@ If you wanna drop me a line,  santiagoaloi@gmail.com or find me on disccord [lan
 
 ## 🥇 Sponsor
 
-If you feel generous and wanna put a smile on my face [become a sponsor](https://github.com/sponsors/santiagoaloi)
+ If you happen to benefit from my work, you can support me financially via [GitHub Sponsors ](https://github.com/sponsors/santiagoaloi)
