@@ -1,12 +1,14 @@
-I'm passionate about helping companies optimize their software development processes for better efficiency, scalability, and quality. 🤩
+#### I'm passionate about helping companies optimize their software development processes 🤩
 
-Specifically, I'm deeply interested in observability and developer velocity, and I enjoy finding ways to promote these concepts in my work. To that end, I spend most of my time building web applications and creating template projects, boilerplates, and tutorials that others can use to improve their own development workflows. I also contribute to open-source projects and actively participate in the development community to stay up to date on the latest best practices and trends.
+Specifically, I'm deeply interested in observability and developer velocity, and I enjoy finding ways to promote these concepts in my work. 
+To that end, I spend most of my time building web applications and creating template projects, boilerplates, and tutorials that others can use to improve their own development workflows. 
 
-In addition to my work in software development, I'm also a skilled network engineer and cybersecurity consultant. 🤯
+#### I also contribute to open-source projects when I can and have time. 🧩
 
-I specialize in log management, automation, and machine learning, and I work with a range of organizations to help them address their specific security challenges. Whether it's optimizing network performance or implementing advanced security measures, I bring a wealth of knowledge and experience to the table to help my clients succeed.
+In addition to my work in software development, I'm also a skilled network engineer and cybersecurity consultant.
+I specialize in log management, automation, and machine learning bringing a wealth of knowledge and experience to the table to help my clients succeed.
 
-## :wrench: Stack
+## :wrench: Stack that I generally use in my projects
 
 ![Vuetify](https://img.shields.io/static/v1?style=flat&message=Vuetify&color=373e47&logo=Vuetify&logoColor=8DD6F9&label=)
 ![Vue.js](https://img.shields.io/static/v1?style=flat&message=Vue.js&color=373e47&logo=Vue.js&logoColor=4FC08D&label=)
