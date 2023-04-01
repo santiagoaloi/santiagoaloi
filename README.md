@@ -1,7 +1,7 @@
-#### I'm passionate about helping companies optimize their software development processes 🤩
+## Hi lovely human! happy to meet you 🤗
+#### Passionate about software/code quality, Functional and Reactive programming. 🤩
 
-Specifically, I'm deeply interested in observability and developer velocity, and I enjoy finding ways to promote these concepts in my work. 
-To that end, I spend most of my time building web applications and creating template projects, boilerplates, and tutorials that others can use to improve their own development workflows. 
+I spend most of my time building web applications and creating template projects, boilerplates, and tutorials that others can use to improve their own development workflows -- I like mentoring, and empowering others in the community.
 
 #### I'm an avid Open-Source contributor and maintainer 🧩
 
