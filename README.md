@@ -22,8 +22,6 @@ I specialize in log management, automation, and machine learning, and I work wit
 ![Google Cloud](https://img.shields.io/static/v1?style=flat&message=Google+Cloud&color=373e47&logo=Google+Cloud&logoColor=FFFFFF&label=)
 ![Amazon AWS](https://img.shields.io/static/v1?style=flat&message=Amazon+AWS&color=373e47&logo=Amazon+AWS&logoColor=FFFFFF&label=)
 ![Microsoft Azure](https://img.shields.io/static/v1?style=flat&message=Microsoft+Azure&color=373e47&logo=Microsoft+Azure&logoColor=FFFFFF&label=)
-
-
 ![Git](https://img.shields.io/static/v1?style=flat&message=Git&color=373e47&logo=Git&logoColor=F1502F&label=)
 
 ## 📨 Find me
