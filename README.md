@@ -5,7 +5,7 @@
 In addition to my work in software development, I'm also a skilled network engineer and cybersecurity consultant.
 I specialize in log management, automation, and machine learning bringing, a wealth of knowledge and experience to the table to help my clients succeed.
 
-I spend most of my time building web applications and creating template projects, boilerplates, and tutorials that others can use to improve their own development workflows -- I like mentoring, and empowering others in the community.
+I spend most of my time building web applications and creating template projects, boilerplates, and tutorials that others can use to improve their own development workflows -- I have a soft spot for UX/UI design.
 
 ### Stack that I generally use in my projects
 
