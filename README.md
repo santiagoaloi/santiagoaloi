@@ -31,7 +31,7 @@ I spend most of my time building web applications and creating template projects
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiagoaloi/)
 
-If you wanna drop me a line,  santiagoaloi@gmail.com or find me on disccord [lannister#9474](https://discordapp.com/users/lannister#9474) 
+If you wanna drop me a line,  santiagoaloi@gmail.com or find me on disccord [lannnister](https://discordapp.com/users/lannnister) 
 
 ## 🥇 Sponsor
 
