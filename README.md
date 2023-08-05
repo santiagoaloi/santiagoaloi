@@ -36,5 +36,5 @@ If you wanna drop me a line,  santiagoaloi@gmail.com or find me on disccord [lan
 ## 🥇 Sponsor
 
  If you happen to benefit from my work, you can support me financially via [GitHub Sponsors ](https://github.com/sponsors/santiagoaloi)
- or  [Buy me a coffee ]([https://github.com/sponsors/santiagoaloi](https://www.buymeacoffee.com/santiagoald)https://www.buymeacoffee.com/santiagoald)
+ or  [Buy me a coffee ](https://www.buymeacoffee.com/santiagoald)
 
