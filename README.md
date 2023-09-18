@@ -1,13 +1,12 @@
 # Hi, I'm Santiago 👋 👨‍💻
 
-### I'm an avid Open-Source contributor and maintainer, currently based in Stockholm 🌍
+### I'm a passionate open-source contributor and maintainer, currently located in Stockholm 🌍
 
-In addition to my work in software development, I'm also a skilled network engineer and cybersecurity consultant.
-I specialize in log management, SOAR, and machine learning, bringing a wealth of knowledge and experience to the table to help my clients succeed.
+Beyond my role in software development, I excel as a proficient network engineer and cybersecurity consultant. 
+My expertise lies in log management, SOAR, and machine learning, offering a wealth of knowledge and experience to support my clients in achieving success.
+I dedicate the majority of my time to building.
 
-I spend most of my time building web applications and creating template projects, boilerplates, and tutorials that others can use to improve their own development workflows -- I have a soft spot for UX/UI design.
-
-### Stack that I generally use in my projects
+### Technology Stack I Typically Use in My Projects
 
 ![Vuetify](https://img.shields.io/static/v1?style=flat&message=Vuetify&color=373e47&logo=Vuetify&logoColor=8DD6F9&label=)
 ![Tailwind CSS](https://img.shields.io/static/v1?style=flat&message=Tailwind+CSS&color=373e47&logo=Tailwind+CSS&logoColor=06B6D4&label=)
@@ -27,14 +26,14 @@ I spend most of my time building web applications and creating template projects
 ![Vercel](https://img.shields.io/static/v1?style=flat&message=Vercel&color=373e47&logo=Vercel&logoColor=FFFFFF&label=)
 ![Git](https://img.shields.io/static/v1?style=flat&message=Git&color=373e47&logo=Git&logoColor=F1502F&label=)
 
-## Reach out
+## Contact Me
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiagoaloi/)
 
-If you wanna drop me a line,  santiagoaloi@gmail.com or find me on disccord [lannnister](https://discordapp.com/users/lannnister) 
+If you'd like to get in touch, you can reach me at santiagoaloi@gmail.com or find me on Discord as [lannnister](https://discordapp.com/users/lannnister) 
 
-## 🥇 Sponsor
+## 🥇 Sponsorship
 
- If you happen to benefit from my work, you can support me financially via [GitHub Sponsors ](https://github.com/sponsors/santiagoaloi)
- or  [Buy me a coffee ](https://www.buymeacoffee.com/santiagoald)
+If you happen to find my work beneficial, you can show your support by contributing financially through [GitHub Sponsors ](https://github.com/sponsors/santiagoaloi) or [Buy me a coffee ](https://www.buymeacoffee.com/santiagoald)"
+
 
