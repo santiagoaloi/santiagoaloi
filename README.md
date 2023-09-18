@@ -34,6 +34,6 @@ If you'd like to get in touch, you can reach me at santiagoaloi@gmail.com or fin
 
 ## 🥇 Sponsorship
 
-If you happen to find my work beneficial, you can show your support by contributing financially through [GitHub Sponsors ](https://github.com/sponsors/santiagoaloi) or [Buy me a coffee ](https://www.buymeacoffee.com/santiagoald)"
+If you happen to find my work beneficial, you can show your support by contributing financially through [GitHub Sponsors ](https://github.com/sponsors/santiagoaloi) or [Buy me a coffee ](https://www.buymeacoffee.com/santiagoald)
 
 
