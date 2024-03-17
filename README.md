@@ -1,10 +1,7 @@
 # Hi, I'm Santiago 👋 👨‍💻
 
-### I'm a passionate open-source contributor and maintainer, currently located in Stockholm 🌍
-
-Beyond my role in software development, I excel as a proficient network engineer and cybersecurity consultant. 
-My expertise lies in log management, SOAR, and machine learning, offering a wealth of knowledge and experience to support my clients in achieving success.
-I dedicate the majority of my time to building.
+### Open Source enthusiast and Security & Automation Expert (log management, SOAR, Machine Learning). I dedicate the majority of my time to building. 
+Beyond my role in software development and Cybersecurity, I have a network engineering background mainly within Cisco networks.
 
 ### Technology Stack I Typically Use in My Projects
 
