@@ -1,6 +1,6 @@
 # Hi, I'm Santiago 👋 👨‍💻
 
-#### Open Source enthusiast and Security & Automation Expert (log management, SOAR, Machine Learning).
+#### Open Source enthusiast and Security & Automation Expert (log management, SOAR, Machine Learning, SIEM).
 I'm the brain behind [Skriptjobs](https://skriptjobs.com), a project I've been passionately crafting since early 2023. 🔥
 
 I'm all about software development and cybersecurity, with a solid foundation in network engineering, particularly within Cisco networks. 
