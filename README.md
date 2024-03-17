@@ -1,6 +1,6 @@
 # Hi, I'm Santiago 👋 👨‍💻
 
-## Open Source enthusiast and Security & Automation Expert (log management, SOAR, Machine Learning).
+#### Open Source enthusiast and Security & Automation Expert (log management, SOAR, Machine Learning).
 Beyond my role in software development and Cybersecurity, I have a network engineering background mainly within Cisco networks.
 
 ### Technology Stack I Typically Use in My Projects
