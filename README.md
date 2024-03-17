@@ -1,7 +1,13 @@
 # Hi, I'm Santiago 👋 👨‍💻
 
 #### Open Source enthusiast and Security & Automation Expert (log management, SOAR, Machine Learning).
-Beyond my role in software development and Cybersecurity, I have a network engineering background mainly within Cisco networks.
+I'm the brain behind [Skriptjobs](https://skriptjobs.com), a project I've been passionately crafting since early 2023. 🔥
+
+I'm all about software development and cybersecurity, with a solid foundation in network engineering, particularly within Cisco networks. 
+I've actively contributed to several open-source projects, with Vuetify being my major focus. Vuetify has provided me with a platform to harness my skills in frontend development.
+
+I'm constantly seeking new challenges and opportunities to expand my knowledge and skills, get in touch.
+
 
 ### Technology Stack I Typically Use in My Projects
 
