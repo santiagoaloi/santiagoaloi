@@ -6,7 +6,7 @@ I'm the brain behind [Skriptjobs](https://skriptjobs.com), a project I've been p
 I'm all about software development and cybersecurity, with a solid foundation in network engineering, particularly within Cisco networks. 
 I've actively contributed to several open-source projects, with Vuetify being my major focus. Vuetify has provided me with a platform to harness my skills in frontend development.
 
-I'm constantly seeking new challenges and opportunities to expand my knowledge and skills, get in touch.
+I'm constantly seeking new challenges and opportunities to expand my knowledge and skills!
 
 
 ### Technology Stack I Typically Use in My Projects
