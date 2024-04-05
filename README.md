@@ -33,8 +33,7 @@ I'm constantly seeking new challenges and opportunities to expand my knowledge a
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiagoaloi/)
 [![gmail](https://img.shields.io/badge/gmail-0A66C2?style=flat&logo=gmail&logoColor=white)](mailto:santiagoaloi@gmail.com)
-
-If you'd like to get in touch, you can reach me at santiagoaloi@gmail.com or find me on Discord as [lannnister](https://discordapp.com/users/lannnister) 
+[![discord](https://img.shields.io/badge/discord-0A66C2?style=flat&logo=discord&logoColor=white)](mailto:santiagoaloi@gmail.com)
 
 ## 🥇 Sponsorship
 
