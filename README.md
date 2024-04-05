@@ -32,11 +32,16 @@ I'm constantly seeking new challenges and opportunities to expand my knowledge a
 ## Contact Me
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiagoaloi/)
+ [![gmail](https://img.shields.io/badge/gmail-0A66C2?style=flat&logo=gmail&logoColor=white)](https://www.linkedin.com/in/santiagoaloi/)
 
 If you'd like to get in touch, you can reach me at santiagoaloi@gmail.com or find me on Discord as [lannnister](https://discordapp.com/users/lannnister) 
 
 ## 🥇 Sponsorship
 
-If you happen to find my work beneficial, you can show your support by contributing financially through [GitHub Sponsors ](https://github.com/sponsors/santiagoaloi) or [Buy me a coffee ](https://www.buymeacoffee.com/santiagoald)
+If you happen to find my work beneficial,you can show your support
+[ by sponsoring me](https://github.com/sponsors/santiagoaloi)
+
+[![buymeacoffee](https://img.shields.io/badge/buymeacoffee-0A66C2?style=flat&logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/santiagoald) 
+
 
 
