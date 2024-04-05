@@ -27,6 +27,7 @@ I'm constantly seeking new challenges and opportunities to expand my knowledge a
 ![Microsoft Azure](https://img.shields.io/static/v1?style=flat&message=Microsoft+Azure&color=373e47&logo=Microsoft+Azure&logoColor=FFFFFF&label=)
 ![Vercel](https://img.shields.io/static/v1?style=flat&message=Vercel&color=373e47&logo=Vercel&logoColor=FFFFFF&label=)
 ![Git](https://img.shields.io/static/v1?style=flat&message=Git&color=373e47&logo=Git&logoColor=F1502F&label=)
+![Github](https://img.shields.io/static/v1?style=flat&message=Github&color=373e47&logo=Github&logoColor=F1502F&label=)
 
 ## Contact Me
 
