@@ -14,6 +14,7 @@ I'm constantly seeking new challenges and opportunities to expand my knowledge a
 ![Vuetify](https://img.shields.io/static/v1?style=flat&message=Vuetify&color=373e47&logo=Vuetify&logoColor=8DD6F9&label=)
 ![Tailwind CSS](https://img.shields.io/static/v1?style=flat&message=Tailwind+CSS&color=373e47&logo=Tailwind+CSS&logoColor=06B6D4&label=)
 ![Vue.js](https://img.shields.io/static/v1?style=flat&message=Vue.js&color=373e47&logo=Vue.js&logoColor=4FC08D&label=)
+![Vue.js](https://img.shields.io/static/v1?style=flat&message=Nuxt.js&color=373e47&logo=Vue.js&logoColor=4FC08D&label=)
 ![Vite](https://img.shields.io/static/v1?style=flat&message=Vite&color=373e47&logo=Vite&logoColor=967cff&label=)
 ![Webpack](https://img.shields.io/static/v1?style=flat&message=Webpack&color=373e47&logo=Webpack&logoColor=8DD6F9&label=)
 ![rollup.js](https://img.shields.io/static/v1?style=flat&message=rollup.js&color=373e47&logo=rollup.js&logoColor=fe3333&label=)
