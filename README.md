@@ -8,7 +8,7 @@ I enjoy researching and exploring the intricaties of technologies we use on a da
 Today I became the brain behind [Skriptjobs](https://skriptjobs.com), a project I've been passionately crafting since early 2023. 🔥
 
 
-FAQ
+# FAQ
 - 🌎 I'm from Buenos Aires, Argentina, living in Stockholm, Sweden since 2012.
 - 🐣 Born in October 1985.
 - 💻 Started my professional career in 2018, focus on Cisco Networks, Datacenter Infrastructure.
