@@ -1,13 +1,22 @@
 # Hi, I'm Santiago 👋 👨‍💻
 
-#### Open Source enthusiast and Security & Automation Expert (log management, SOAR, Machine Learning, SIEM).
-I'm the brain behind [Skriptjobs](https://skriptjobs.com), a project I've been passionately crafting since early 2023. 🔥
+#### I'm a 38-year-old software engineer specializing in JavaScript (TypeScript), VueJS (NuxtJS), and Web Performance.
+before I went all in with coding I used to spend all day nerding up with SOAR, Machine Learning and SIEM.
 
-I'm all about software development and cybersecurity, with a solid foundation in network engineering, particularly within Cisco networks. 
-I've actively contributed to several open-source projects, with Vuetify being my major focus. Vuetify has provided me with a platform to harness my skills in frontend development.
+I enjoy researching and exploring the intricaties of technologies we use on a daily basis; from JavaScript engines to browser internals, web security ,networking, cloud infrastructure, bundlers , you name it.
 
-I'm constantly seeking new challenges and opportunities to expand my knowledge and skills!
+Today I became the brain behind [Skriptjobs](https://skriptjobs.com), a project I've been passionately crafting since early 2023. 🔥
 
+
+FAQ
+- 🌎 I'm from Buenos Aires, Argentina, living in Stockholm, Sweden since 2012.
+- 🐣 Born in October 1985.
+- 💻 Started my professional career in 2018, focus on Cisco Networks, Datacenter Infrastructure.
+- 🥩 I grill a lot and not just steak, pizzas, cheese and fruits (yes, fruits).
+- 👶 I have 2 cute daughters (Sienna & Cèline).
+- ✈ I'm a private pilot, trained in Oakland, CA.
+- 🐓 I'm a country guy, planning on building my own farm quite soon!
+- 🏕️ Travelling is my passion especially when its not planned much.
 
 ### Technology Stack I Typically Use in My Projects
 
