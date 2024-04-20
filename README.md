@@ -38,13 +38,13 @@ Today I became the brain behind [Skriptjobs](https://skriptjobs.com), a project 
 ![Git](https://img.shields.io/static/v1?style=flat&message=Git&color=2d333b&logo=Git&logoColor=F1502F&label=)
 ![Github](https://img.shields.io/static/v1?style=flat&message=Github&color=2d333b&logo=Github&logoColor=F1502F&label=)
 
-## Contact Me
+# Contact Me
 
 [![linkedin](https://img.shields.io/badge/linkedin-2d333b?style=flat&logo=linkedin&logoColor=#2d333b)](https://www.linkedin.com/in/santiagoaloi/)
 [![gmail](https://img.shields.io/badge/gmail-2d333b?style=flat&logo=gmail&logoColor=white)](mailto:santiagoaloi@gmail.com)
 [![discord](https://img.shields.io/badge/discord-2d333b?style=flat&logo=discord&logoColor=white)](mailto:santiagoaloi@gmail.com)
 
-## 🥇 Sponsorship
+# 🥇 Sponsorship
 
 If you happen to find my work beneficial,you can show your support
 [ by sponsoring me](https://github.com/sponsors/santiagoaloi)
