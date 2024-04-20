@@ -18,7 +18,7 @@ Today I became the brain behind [Skriptjobs](https://skriptjobs.com), a project 
 - 🐓 I'm a country guy, planning on building my own farm quite soon!
 - 🏕️ Travelling is my passion especially when its not planned much.
 
-## Tech stack I typically use in when I code:
+# Tech stack I typically use in when I code:
 
 ![Vuetify](https://img.shields.io/static/v1?style=flat&message=Vuetify&color=2d333b&logo=Vuetify&logoColor=8DD6F9&label=)
 ![Tailwind CSS](https://img.shields.io/static/v1?style=flat&message=Tailwind+CSS&color=2d333b&logo=Tailwind+CSS&logoColor=06B6D4&label=)
