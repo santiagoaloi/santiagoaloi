@@ -37,7 +37,7 @@ Today I became the brain behind [Skriptjobs](https://skriptjobs.com), a project 
 ![Microsoft Azure](https://img.shields.io/static/v1?style=flat&message=Microsoft+Azure&color=2d333b&logo=Microsoft+Azure&logoColor=FFFFFF&label=)
 ![Vercel](https://img.shields.io/static/v1?style=flat&message=Vercel&color=2d333b&logo=Vercel&logoColor=FFFFFF&label=)
 ![Git](https://img.shields.io/static/v1?style=flat&message=Git&color=2d333b&logo=Git&logoColor=F1502F&label=)
-![Github](https://img.shields.io/static/v1?style=flat&message=Github&color=2d333b&logo=Github&logoColor=F1502F&label=)
+![Github](https://img.shields.io/static/v1?style=flat&message=Github&color=2d333b&logo=Github&logoColor=ffff&label=)
 
 # Contact Me
 
