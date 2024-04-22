@@ -28,6 +28,9 @@ Today I became the brain behind [Skriptjobs](https://skriptjobs.com), a project 
 ![Webpack](https://img.shields.io/static/v1?style=flat&message=Webpack&color=2d333b&logo=Webpack&logoColor=8DD6F9&label=)
 ![rollup.js](https://img.shields.io/static/v1?style=flat&message=rollup.js&color=2d333b&logo=rollup.js&logoColor=fe3333&label=)
 ![Node.js](https://img.shields.io/static/v1?style=flat&message=Node.js&color=2d333b&logo=Node.js&logoColor=6ea35c&label=)
+![graphql](https://img.shields.io/static/v1?style=flat&message=graphql&color=2d333b&logo=graphql&logoColor=6ea35c&label=)
+![apollo](https://img.shields.io/static/v1?style=flat&message=apollo&color=2d333b&logo=apollo&logoColor=6ea35c&label=)
+
 ![JavaScript](https://img.shields.io/static/v1?style=flat&message=JavaScript&color=2d333b&logo=JavaScript&logoColor=F7DF1E&label=)
 ![TypeScript](https://img.shields.io/static/v1?style=flat&message=TypeScript&color=2d333b&logo=TypeScript&logoColor=F7DF1E&label=)
 ![MySQL](https://img.shields.io/static/v1?style=flat&message=MySQL&color=2d333b&logo=MySQL&logoColor=FFFFFF&label=)
