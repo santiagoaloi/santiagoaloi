@@ -41,6 +41,10 @@ Today I became the brain behind [Skriptjobs](https://skriptjobs.com), a project 
 
 # Contact Me
 
+I'm always enthusiastic about learning new things and evolving as a developer.
+
+My inbox is always open to discuss new opportunities
+
 [![linkedin](https://img.shields.io/badge/linkedin-2d333b?style=flat&logo=linkedin&logoColor=#2d333b)](https://www.linkedin.com/in/santiagoaloi/)
 [![gmail](https://img.shields.io/badge/gmail-2d333b?style=flat&logo=gmail&logoColor=white)](mailto:santiagoaloi@gmail.com)
 [![discord](https://img.shields.io/badge/discord-2d333b?style=flat&logo=discord&logoColor=white)](mailto:santiagoaloi@gmail.com)
