@@ -39,6 +39,12 @@ Today I became the brain behind [Skriptjobs](https://skriptjobs.com), a project 
 ![Git](https://img.shields.io/static/v1?style=flat&message=Git&color=2d333b&logo=Git&logoColor=F1502F&label=)
 ![Github](https://img.shields.io/static/v1?style=flat&message=GitHub&color=2d333b&logo=Github&logoColor=ffff&label=)
 
+# Latest blog-posts
+
+- [AI Automation and transformation for Small Businesses](https://www.linkedin.com/pulse/ai-automation-transformation-small-businesses-santiago-aloi-fwhif/?trackingId=D7bOyikwS1WUyUVSfU7gzw%3D%3D)
+- [Get the Right Answer, by Posting the Wrong One](https://www.linkedin.com/pulse/get-right-answer-posting-wrong-one-santiago-aloi-xb9hf/?trackingId=6aSkTErJQ1WegeozOEU%2BGw%3D%3D)
+- [This is how senior developers ACTUALLY write code](https://www.linkedin.com/pulse/how-senior-developers-actually-write-code-santiago-aloi-qw2yf/?trackingId=6qySIiv8R56dBuq%2Bpr%2FNKw%3D%3D)
+
 # Contact Me
 
 I'm always enthusiastic about learning new things and evolving as a developer.
