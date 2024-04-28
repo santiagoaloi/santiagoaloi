@@ -1,7 +1,7 @@
 # Hi, I'm Santiago 👋 👨‍💻
 
-#### I'm a 38-year-old software engineer specializing in JavaScript (TypeScript), VueJS (NuxtJS), and Web Performance.
-Before I went all-in with coding, I used to spend all my time nerding-up with SOAR, Machine Learning and SIEM.
+#### I'm a software engineer specializing in JavaScript (TypeScript), VueJS (NuxtJS), and Web Performance.
+Before I went all-in with coding, I used to spend all my time in cyber-defence, SOAR, Machine Learning and SIEM.
 
 I enjoy researching and exploring the intricaties of technologies we use on a daily basis; from JavaScript engines to browser internals, web security ,networking, cloud infrastructure, bundlers (very much into Vite) , you name it!
 
