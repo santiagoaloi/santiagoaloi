@@ -1,7 +1,6 @@
-# Hi, I'm Santiago 👋 👨‍💻
+# Hi, I'm Santiago 👋👨‍💻
 
-#### I'm a software engineer specializing in JavaScript (TypeScript), VueJS (NuxtJS), and Web Performance.
-I'm also a Cyber Security Consultant specializing in SOAR, Machine Learning and SIEM.
+#### I'm a software engineer specializing in JavaScript (TypeScript), VueJS (NuxtJS), and Web Performance. In the Cyber Security domain, I navigate the landscapes of SOAR, Machine Learning, and SIEM. 
 
 I enjoy researching and exploring the intricaties of technologies we use on a daily basis; from JavaScript engines to browser internals, web security ,networking, cloud infrastructure, bundlers (very much into Vite) , you name it!
 
