@@ -9,14 +9,14 @@ Today I became the brain behind [Skriptjobs](https://skriptjobs.com), a project 
 
 
 # FAQ
-- 🌎 I'm from Buenos Aires, Argentina, lived and studied in Berkely, CA, moved to Sweden in 2013
 - 🐣 Born in October 1985.
+- 🌎 Grew up in Buenos Aires, Argentina, lived and studied in Berkely, CA, been living in Stockholm, Sweden since 2013.
 - 💻 Started my professional career in 2008, focused on Cisco Networks, Datacenter Infrastructure.
 - 🥩 I grill a lot and not just steak, pizzas, cheese and fruits (yes, fruits).
 - 👶 I have 2 cute daughters (Sienna & Cèline).
 - ✈ I'm a private pilot, trained in Oakland, CA.
 - 🐓 I'm a country guy, planning on building my own farm quite soon!
-- 🏕️ Travelling is my passion especially when its not planned much.
+- 🏕️ Travelling is my passion especially when its spontaneous and uplanned. 
 
 # Tech stack I typically use
 
@@ -52,7 +52,6 @@ Today I became the brain behind [Skriptjobs](https://skriptjobs.com), a project 
 # Contact Me
 
 I'm always enthusiastic about learning new things and evolving as a developer.
-
 My inbox is always open to discuss new opportunities
 
 [![linkedin](https://img.shields.io/badge/linkedin-2d333b?style=flat&logo=linkedin&logoColor=#2d333b)](https://www.linkedin.com/in/santiagoaloi/)
