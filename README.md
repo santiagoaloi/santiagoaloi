@@ -55,7 +55,7 @@ My inbox is always open to discuss new opportunities
 
 [![linkedin](https://img.shields.io/badge/linkedin-2d333b?style=flat&logo=linkedin&logoColor=#2d333b)](https://www.linkedin.com/in/santiagoaloi/)
 [![Gmail](https://img.shields.io/badge/gmail-2d333b?style=flat&logo=gmail&logoColor=white)](mailto:santiagoaloi@gmail.com)
-[![Discord](https://img.shields.io/badge/discord-2d333b?style=flat&logo=discord&logoColor=white)](mailto:santiagoaloi@gmail.com)
+[![Discord](https://img.shields.io/badge/discord-2d333b?style=flat&logo=discord&logoColor=white)](https://discord.com/users/792800772248174653)
 
 # 🥇 Sponsorship
 
