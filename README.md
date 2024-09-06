@@ -35,6 +35,7 @@ Today I became the brain behind [Skriptjobs](https://skriptjobs.com), a project 
 ![GraphQL](https://img.shields.io/static/v1?style=flat&message=GraphQL&color=2d333b&logo=graphql&logoColor=dd34a6&label=)
 ![JavaScript](https://img.shields.io/static/v1?style=flat&message=JavaScript&color=2d333b&logo=JavaScript&logoColor=F7DF1E&label=)
 ![TypeScript](https://img.shields.io/static/v1?style=flat&message=TypeScript&color=2d333b&logo=TypeScript&logoColor=3178C6&label=)
+![Python](https://img.shields.io/static/v1?style=flat&message=Python&color=2d333b&logo=Python&logoColor=3178C6&label=)
 ![MySQL](https://img.shields.io/static/v1?style=flat&message=MySQL&color=2d333b&logo=MySQL&logoColor=FFFFFF&label=)
 ![Firebase](https://img.shields.io/static/v1?style=flat&message=Firebase&color=2d333b&logo=Firebase&logoColor=FFCA28&label=)
 ![GCP](https://img.shields.io/static/v1?style=flat&message=Google+Cloud&color=2d333b&logo=Google+Cloud&logoColor=FFFFFF&label=)
