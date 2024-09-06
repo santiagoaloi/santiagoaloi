@@ -19,6 +19,7 @@ Today I became the brain behind [Skriptjobs](https://skriptjobs.com), a project 
 
 # Tech stack I typically use
 
+
 ![Vuetify](https://img.shields.io/static/v1?style=flat&message=Vuetify&color=2d333b&logo=Vuetify&logoColor=8DD6F9&label=)
 ![Tailwind CSS](https://img.shields.io/static/v1?style=flat&message=Tailwind+CSS&color=2d333b&logo=Tailwind+CSS&logoColor=06B6D4&label=)
 ![CSS3](https://img.shields.io/static/v1?style=flat&message=CSS3&color=2d333b&logo=CSS3&logoColor=1572B6&label=)
@@ -41,6 +42,8 @@ Today I became the brain behind [Skriptjobs](https://skriptjobs.com), a project 
 ![Vercel](https://img.shields.io/static/v1?style=flat&message=Vercel&color=2d333b&logo=Vercel&logoColor=FFFFFF&label=)
 ![Git](https://img.shields.io/static/v1?style=flat&message=Git&color=2d333b&logo=Git&logoColor=F1502F&label=)
 ![Github](https://img.shields.io/static/v1?style=flat&message=GitHub&color=2d333b&logo=Github&logoColor=ffff&label=)
+![Terraform](https://img.shields.io/static/v1?style=flat&message=Terraform&color=2d333b&logo=Terraform&logoColor=ffff&label=)
+
 
 # Latest blog-posts
 
