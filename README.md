@@ -35,7 +35,7 @@ Today I became the brain behind [Skriptjobs](https://skriptjobs.com), a project 
 ![MySQL](https://img.shields.io/static/v1?style=flat&message=MySQL&color=2d333b&logo=MySQL&logoColor=FFFFFF&label=)
 ![Vercel](https://img.shields.io/static/v1?style=flat&message=Vercel&color=2d333b&logo=Vercel&logoColor=FFFFFF&label=)
 ![Firebase](https://img.shields.io/static/v1?style=flat&message=Firebase&color=2d333b&logo=Firebase&logoColor=FFCA28&label=)
-![GCP](https://img.shields.io/static/v1?style=flat&message=Google+Cloud&color=2d333b&logo=Google+Cloud&logoColor=FFFFFF&label=)
+![GCP](https://img.shields.io/badge/Google%20Cloud-%232d333b.svg?style=flat&logo=google-cloud&logoColor=FFFFFF)
 ![Azure](https://img.shields.io/static/v1?style=flat&message=Microsoft+Azure&color=2d333b&logo=Microsoft+Azure&logoColor=FFFFFF&label=)
 ![Terraform](https://img.shields.io/static/v1?style=flat&message=Terraform&color=2d333b&logo=Terraform&logoColor=ffff&label=)
 ![Docker](https://img.shields.io/static/v1?style=flat&message=Docker&color=2d333b&logo=Docker&logoColor=ffff&label=)
@@ -46,6 +46,8 @@ Today I became the brain behind [Skriptjobs](https://skriptjobs.com), a project 
 ![Github](https://img.shields.io/static/v1?style=flat&message=GitHub&color=2d333b&logo=Github&logoColor=ffff&label=)
 ![OpenTelemetry](https://img.shields.io/static/v1?style=flat&message=OpenTelemetry&color=2d333b&logo=OpenTelemetry&logoColor=ffff&label=)
 ![Splunk](https://img.shields.io/static/v1?style=flat&message=Splunk&color=2d333b&logo=Splunk&logoColor=ffff&label=)
+
+
 
 
 # Latest blog-posts
