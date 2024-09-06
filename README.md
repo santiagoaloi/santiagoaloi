@@ -21,7 +21,7 @@ Today I became the brain behind [Skriptjobs](https://skriptjobs.com), a project 
 
 ![Vue](https://img.shields.io/static/v1?style=flat&message=Vue.js&color=2d333b&logo=Vue.js&logoColor=4FC08D&label=)
 ![Nuxt](https://img.shields.io/static/v1?style=flat&message=Nuxt.js&color=2d333b&logo=Nuxt.js&logoColor=4FC08D&label=)
-![Vite](https://img.shields.io/static/v1?style=flat&message=Vite.js&color=2d333b&logo=Vite.js&logoColor=4FC08D&label=)
+![Vite](https://img.shields.io/static/v1?style=flat&message=Vite&color=2d333b&logo=Vite&logoColor=4FC08D&label=)
 ![ESLint](https://img.shields.io/static/v1?style=flat&message=ESLint&color=2d333b&logo=eslint&logoColor=4B32C3&label=)
 ![Webpack](https://img.shields.io/static/v1?style=flat&message=Webpack&color=2d333b&logo=Webpack&logoColor=8DD6F9&label=)
 ![Rollup](https://img.shields.io/static/v1?style=flat&message=Rollup.js&color=2d333b&logo=rollup.js&logoColor=fe3333&label=)
