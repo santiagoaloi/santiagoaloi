@@ -36,7 +36,6 @@ Today I became the brain behind [Skriptjobs](https://skriptjobs.com), a project 
 ![Vercel](https://img.shields.io/static/v1?style=flat&message=Vercel&color=2d333b&logo=Vercel&logoColor=FFFFFF&label=)
 ![Firebase](https://img.shields.io/static/v1?style=flat&message=Firebase&color=2d333b&logo=Firebase&logoColor=FFCA28&label=)
 ![GCP](https://img.shields.io/badge/Google%20Cloud-%232d333b.svg?style=flat&logo=google-cloud&logoColor=FFFFFF)
-![Azure](https://img.shields.io/static/v1?style=flat&message=Microsoft+Azure&color=2d333b&logo=Microsoft+Azure&logoColor=FFFFFF&label=)
 ![Terraform](https://img.shields.io/static/v1?style=flat&message=Terraform&color=2d333b&logo=Terraform&logoColor=ffff&label=)
 ![Docker](https://img.shields.io/static/v1?style=flat&message=Docker&color=2d333b&logo=Docker&logoColor=ffff&label=)
 ![JavaScript](https://img.shields.io/static/v1?style=flat&message=JavaScript&color=2d333b&logo=JavaScript&logoColor=F7DF1E&label=)
