@@ -8,7 +8,6 @@ Today I became the brain behind [Skriptjobs](https://skriptjobs.com), a project 
 
 
 # FAQ
-- 🐣 Born in October 1985.
 - 🌎 Grew up in Buenos Aires, Argentina, lived and studied in Berkely, CA, been living in Stockholm, Sweden since 2013.
 - 💻 Started my professional career in 2008, focused on Cisco Networks, Datacenter Infrastructure.
 - 🥩 I grill a lot and not just steak, pizzas, cheese and fruits (yes, fruits).
