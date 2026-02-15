@@ -15,9 +15,6 @@ I’m especially interested in:
 
 I like understanding how things work under the hood, from JavaScript engines to network stacks to distributed systems.
 
-
----
-
 ### Quick facts
 
 - 🌎 Argentina → California → Sweden  
@@ -27,15 +24,12 @@ I like understanding how things work under the hood, from JavaScript engines to 
 - ✈ Private pilot  
 - 👨‍👧‍👧 Dad of two  
 
----
-
 ### What I'm open to
 
 I’m interested in roles where I can:
 - design systems, not just implement tickets
 - solve performance or architecture challenges
 - work on meaningful products
-
 
 ### Tech stack I typically use
 
