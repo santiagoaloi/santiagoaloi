@@ -1,52 +1,79 @@
-# Hi, I'm Santiago 👋👨‍💻
+# Hi, I'm Santiago 👋
 
-#### I'm a software engineer specializing in JavaScript (TypeScript), VueJS (NuxtJS), and Web Performance. In the Cyber Security domain, I navigate the landscapes of SOAR, Machine Learning, and SIEM. 
+### Software Engineer | JavaScript, Vue, Cloud, Infrastructure
 
-I enjoy researching and exploring the intricaties of technologies we use on a daily basis; from JavaScript engines to browser internals, web security ,networking, cloud infrastructure, bundlers (very much into Vite) , you name it!
+I build fast, scalable systems across frontend, backend, and cloud infrastructure.  
+My background spans software engineering, networking, and cybersecurity, which lets me design solutions end to end, from architecture to deployment.
 
-Today I became the brain behind [Skriptjobs](https://skriptjobs.com), a project I've been passionately crafting since early 2023. 🔥
+Currently building **Skriptjobs**, an AI driven recruiting platform focused on better candidate matching and skill validation.
+
+I’m especially interested in:
+- Web performance & browser internals
+- Scalable system design
+- Cloud infrastructure & automation
+- Security, observability, and reliability engineering
+
+I like understanding how things work under the hood, from JavaScript engines to network stacks to distributed systems.
 
 
-# FAQ
-- 🌎 Grew up in Buenos Aires, Argentina, lived and studied in Berkely, CA, been living in Stockholm, Sweden since 2013.
-- 💻 Started my professional career in 2008, focused on Cisco Networks, Datacenter Infrastructure.
-- 🥩 I grill a lot and not just steak, pizzas, cheese and fruits (yes, fruits).
-- 👶 I have 2 cute daughters (Sienna & Cèline).
-- ✈ I'm a private pilot, trained in Oakland, CA.
-- 🐓 I'm a country guy, planning on building my own farm quite soon!
-- 🏕️ Travelling is my passion especially when its spontaneous and uplanned. 
+---
 
-# Tech stack I typically use
+### Quick facts
+
+- 🌎 Argentina → California → Sweden  
+- 💻 12+ years across networking, infrastructure, and software  
+- 🧠 Strong in debugging complex systems across layers  
+- 🛠 Builder mindset, I ship products, not just code  
+- ✈ Private pilot  
+- 👨‍👧‍👧 Dad of two  
+
+---
+
+### What I'm open to
+
+I’m interested in roles where I can:
+- design systems, not just implement tickets
+- solve performance or architecture challenges
+- work on meaningful products
+
+
+### Tech stack I typically use
 
 ![Vue](https://img.shields.io/static/v1?style=flat&message=Vue.js&color=2d333b&logo=Vue.js&logoColor=4FC08D&label=)
 ![Nuxt](https://img.shields.io/static/v1?style=flat&message=Nuxt.js&color=2d333b&logo=Nuxt.js&logoColor=4FC08D&label=)
+![Angular](https://img.shields.io/static/v1?style=flat&message=Angular&color=2d333b&logo=Angular&logoColor=DD0031&label=)
 ![Vite](https://img.shields.io/static/v1?style=flat&message=Vite&color=2d333b&logo=Vite&logoColor=ffff&label=)
-![ESLint](https://img.shields.io/static/v1?style=flat&message=ESLint&color=2d333b&logo=eslint&logoColor=4B32C3&label=)
 ![Webpack](https://img.shields.io/static/v1?style=flat&message=Webpack&color=2d333b&logo=Webpack&logoColor=8DD6F9&label=)
 ![Rollup](https://img.shields.io/static/v1?style=flat&message=Rollup.js&color=2d333b&logo=rollup.js&logoColor=fe3333&label=)
 ![Node](https://img.shields.io/static/v1?style=flat&message=Node.js&color=2d333b&logo=Node.js&logoColor=6ea35c&label=)
-![CSS3](https://img.shields.io/static/v1?style=flat&message=CSS3&color=2d333b&logo=CSS3&logoColor=1572B6&label=)
-![SASS](https://img.shields.io/static/v1?style=flat&message=Sass&color=2d333b&logo=sass&logoColor=CC6699&label=)
-![Vuetify](https://img.shields.io/static/v1?style=flat&message=Vuetify&color=2d333b&logo=Vuetify&logoColor=8DD6F9&label=)
-![Tailwind](https://img.shields.io/static/v1?style=flat&message=Tailwind+CSS&color=2d333b&logo=Tailwind+CSS&logoColor=06B6D4&label=)
-![HTML5](https://img.shields.io/static/v1?style=flat&message=HTML5&color=2d333b&logo=JavaScript&logoColor=E34F26&label=)
+![Express](https://img.shields.io/static/v1?style=flat&message=Express&color=2d333b&logo=express&logoColor=FFFFFF&label=)
 ![GraphQL](https://img.shields.io/static/v1?style=flat&message=GraphQL&color=2d333b&logo=graphql&logoColor=dd34a6&label=)
-![MySQL](https://img.shields.io/static/v1?style=flat&message=MySQL&color=2d333b&logo=MySQL&logoColor=FFFFFF&label=)
-![Vercel](https://img.shields.io/static/v1?style=flat&message=Vercel&color=2d333b&logo=Vercel&logoColor=FFFFFF&label=)
-![Firebase](https://img.shields.io/static/v1?style=flat&message=Firebase&color=2d333b&logo=Firebase&logoColor=FFCA28&label=)
-![GCP](https://img.shields.io/badge/Google%20Cloud-%232d333b.svg?style=flat&logo=google-cloud&logoColor=FFFFFF)
-![Terraform](https://img.shields.io/static/v1?style=flat&message=Terraform&color=2d333b&logo=Terraform&logoColor=ffff&label=)
-![Docker](https://img.shields.io/static/v1?style=flat&message=Docker&color=2d333b&logo=Docker&logoColor=ffff&label=)
+![REST](https://img.shields.io/static/v1?style=flat&message=REST&color=2d333b&logo=fastapi&logoColor=FFFFFF&label=)
+![HTML5](https://img.shields.io/static/v1?style=flat&message=HTML5&color=2d333b&logo=html5&logoColor=E34F26&label=)
+![CSS3](https://img.shields.io/static/v1?style=flat&message=CSS3&color=2d333b&logo=CSS3&logoColor=1572B6&label=)
+![Sass](https://img.shields.io/static/v1?style=flat&message=Sass&color=2d333b&logo=sass&logoColor=CC6699&label=)
+![Tailwind](https://img.shields.io/static/v1?style=flat&message=Tailwind&color=2d333b&logo=Tailwind+CSS&logoColor=06B6D4&label=)
 ![JavaScript](https://img.shields.io/static/v1?style=flat&message=JavaScript&color=2d333b&logo=JavaScript&logoColor=F7DF1E&label=)
 ![TypeScript](https://img.shields.io/static/v1?style=flat&message=TypeScript&color=2d333b&logo=TypeScript&logoColor=3178C6&label=)
 ![Python](https://img.shields.io/static/v1?style=flat&message=Python&color=2d333b&logo=Python&logoColor=3178C6&label=)
+![Bash](https://img.shields.io/static/v1?style=flat&message=Bash&color=2d333b&logo=gnubash&logoColor=4EAA25&label=)
+![MySQL](https://img.shields.io/static/v1?style=flat&message=MySQL&color=2d333b&logo=MySQL&logoColor=FFFFFF&label=)
+![Postgres](https://img.shields.io/static/v1?style=flat&message=PostgreSQL&color=2d333b&logo=postgresql&logoColor=4169E1&label=)
+![Redis](https://img.shields.io/static/v1?style=flat&message=Redis&color=2d333b&logo=redis&logoColor=DC382D&label=)
+![Docker](https://img.shields.io/static/v1?style=flat&message=Docker&color=2d333b&logo=Docker&logoColor=ffff&label=)
+![Kubernetes](https://img.shields.io/static/v1?style=flat&message=Kubernetes&color=2d333b&logo=kubernetes&logoColor=326CE5&label=)
+![Terraform](https://img.shields.io/static/v1?style=flat&message=Terraform&color=2d333b&logo=Terraform&logoColor=ffff&label=)
+![GCP](https://img.shields.io/badge/Google%20Cloud-%232d333b.svg?style=flat&logo=google-cloud&logoColor=FFFFFF)
+![Azure](https://img.shields.io/static/v1?style=flat&message=Azure&color=2d333b&logo=microsoftazure&logoColor=0078D4&label=)
+![Firebase](https://img.shields.io/static/v1?style=flat&message=Firebase&color=2d333b&logo=Firebase&logoColor=FFCA28&label=)
+![Vercel](https://img.shields.io/static/v1?style=flat&message=Vercel&color=2d333b&logo=Vercel&logoColor=FFFFFF&label=)
 ![Git](https://img.shields.io/static/v1?style=flat&message=Git&color=2d333b&logo=Git&logoColor=F1502F&label=)
-![Github](https://img.shields.io/static/v1?style=flat&message=GitHub&color=2d333b&logo=Github&logoColor=ffff&label=)
+![CI/CD](https://img.shields.io/static/v1?style=flat&message=CI%2FCD&color=2d333b&logo=githubactions&logoColor=FFFFFF&label=)
+![Linux](https://img.shields.io/static/v1?style=flat&message=Linux&color=2d333b&logo=linux&logoColor=FCC624&label=)
+![Networking](https://img.shields.io/static/v1?style=flat&message=Networking&color=2d333b&logo=cisco&logoColor=1BA0D7&label=)
+![Security](https://img.shields.io/static/v1?style=flat&message=Security&color=2d333b&logo=letsencrypt&logoColor=FFFFFF&label=)
 ![OpenTelemetry](https://img.shields.io/static/v1?style=flat&message=OpenTelemetry&color=2d333b&logo=OpenTelemetry&logoColor=ffff&label=)
 ![Splunk](https://img.shields.io/static/v1?style=flat&message=Splunk&color=2d333b&logo=Splunk&logoColor=ffff&label=)
-
-
-
 
 # Latest blog-posts
 
